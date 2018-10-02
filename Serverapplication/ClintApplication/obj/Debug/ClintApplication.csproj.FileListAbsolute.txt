@@ -1,0 +1,9 @@
+G:\c#.netPrograms\Serverapplication\ClintApplication\bin\Debug\ClintApplication.exe.config
+G:\c#.netPrograms\Serverapplication\ClintApplication\bin\Debug\ClintApplication.exe
+G:\c#.netPrograms\Serverapplication\ClintApplication\bin\Debug\ClintApplication.pdb
+G:\c#.netPrograms\Serverapplication\ClintApplication\bin\Debug\NetworkCommsDotNet.dll
+G:\c#.netPrograms\Serverapplication\ClintApplication\obj\Debug\ClintApplication.csprojAssemblyReference.cache
+G:\c#.netPrograms\Serverapplication\ClintApplication\obj\Debug\ClintApplication.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\Serverapplication\ClintApplication\obj\Debug\ClintApplication.csproj.CopyComplete
+G:\c#.netPrograms\Serverapplication\ClintApplication\obj\Debug\ClintApplication.exe
+G:\c#.netPrograms\Serverapplication\ClintApplication\obj\Debug\ClintApplication.pdb

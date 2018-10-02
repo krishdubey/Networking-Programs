@@ -1,0 +1,9 @@
+G:\c#.netPrograms\Serverapplication\Serverapplication\bin\Debug\Serverapplication.exe.config
+G:\c#.netPrograms\Serverapplication\Serverapplication\bin\Debug\Serverapplication.exe
+G:\c#.netPrograms\Serverapplication\Serverapplication\bin\Debug\Serverapplication.pdb
+G:\c#.netPrograms\Serverapplication\Serverapplication\bin\Debug\NetworkCommsDotNet.dll
+G:\c#.netPrograms\Serverapplication\Serverapplication\obj\Debug\Serverapplication.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\Serverapplication\Serverapplication\obj\Debug\Serverapplication.csproj.CopyComplete
+G:\c#.netPrograms\Serverapplication\Serverapplication\obj\Debug\Serverapplication.exe
+G:\c#.netPrograms\Serverapplication\Serverapplication\obj\Debug\Serverapplication.pdb
+G:\c#.netPrograms\Serverapplication\Serverapplication\obj\Debug\Serverapplication.csprojAssemblyReference.cache

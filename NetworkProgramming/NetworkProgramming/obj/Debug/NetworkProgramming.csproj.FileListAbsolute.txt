@@ -1,0 +1,7 @@
+G:\c#.netPrograms\NetworkProgramming\NetworkProgramming\bin\Debug\NetworkProgramming.exe.config
+G:\c#.netPrograms\NetworkProgramming\NetworkProgramming\bin\Debug\NetworkProgramming.exe
+G:\c#.netPrograms\NetworkProgramming\NetworkProgramming\bin\Debug\NetworkProgramming.pdb
+G:\c#.netPrograms\NetworkProgramming\NetworkProgramming\obj\Debug\NetworkProgramming.csprojAssemblyReference.cache
+G:\c#.netPrograms\NetworkProgramming\NetworkProgramming\obj\Debug\NetworkProgramming.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\NetworkProgramming\NetworkProgramming\obj\Debug\NetworkProgramming.exe
+G:\c#.netPrograms\NetworkProgramming\NetworkProgramming\obj\Debug\NetworkProgramming.pdb
